@@ -16,5 +16,5 @@ print a dot and then a right shift and then a newline
 <<<.>.>.
 read the next character into 5th position
 > ,
-terminate if read the 0 character
+terminate if read the null character
 ]
